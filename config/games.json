@@ -1,9 +1,9 @@
 [
   {
-    "name": "1v1lol",
-    "image": "logo.png",
-    "url": "1v1lol",
-    "new": false
+    "name": "BuckshotRoulette",
+    "image": "/games/buckshot/image.png",
+    "url": "/games/buckshot/index.html",
+    "new": true
   },
   {
     "name": "1v1space",
